@@ -5,7 +5,7 @@
 <p align="center">
  
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">CryptoCompare</h3>
 
   <p align="center">
     A Simple Cryptocurrency Price Ticker!
