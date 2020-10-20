@@ -80,7 +80,7 @@ npm install npm@latest -g
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [CryptoCompare](https://min-api.cryptocompare.com/)
 2. Clone the repo
 ```sh
 git clone https://github.com/lalebdi/Crypto.git
