@@ -90,7 +90,7 @@ const API_KEY = 'ENTER YOUR API';
 
 this project will be deployed as soon as it is complete
 
-_please refer to the [Documentation](https://example.com)_
+_please refer to the [Live Site](https://example.com)_
 
 
 
