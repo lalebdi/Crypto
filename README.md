@@ -43,7 +43,7 @@ Here's why:
 * 
 *  :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
