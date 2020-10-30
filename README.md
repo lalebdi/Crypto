@@ -78,7 +78,7 @@ git clone https://github.com/lalebdi/Crypto.git
 ```sh
 npm install
 ```
-4. Enter your API in 
+4. Enter your API 
 ```JS
 const API_KEY = 'ENTER YOUR API';
 ```
