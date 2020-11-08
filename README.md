@@ -91,8 +91,6 @@ _please refer to the [Live Site](https://example.com)_ once completed
 
 
 
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
