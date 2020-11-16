@@ -16,7 +16,7 @@ export function register(config) {
     if (publicUrl.origin !== window.location.origin) {
 
 
-      // serve assets; see https://github.com/facebook/create-react-app/issues/2374
+ 
       return;
     }
 
