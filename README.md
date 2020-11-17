@@ -35,7 +35,6 @@
 
 A work in progress. Its an app to track CryptoCurrency prices live!
 
-Here's why:
 
 
 *  :smile:
