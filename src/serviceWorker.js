@@ -93,7 +93,6 @@ function checkValidServiceWorker(swUrl, config) {
           });
         });
       } else {
-
         registerValidSW(swUrl, config);
       }
     })
